@@ -1,4 +1,4 @@
-[Project Link]("https://ashkar-noorul.github.io/React-Weather-App/")
+[Project Link](https://ashkar-noorul.github.io/React-Weather-App/)
 
 # Getting Started with Create React App
 
